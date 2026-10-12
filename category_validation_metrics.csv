@@ -1,0 +1,9 @@
+category,true_positive,false_positive,false_negative,precision_percent,recall_percent,f1_percent
+GPS / tracking / ETA,19,4,15,82.61,55.88,66.67
+App stability / update,16,10,15,61.54,51.61,56.14
+Pickup / trip reliability,5,5,3,50.0,62.5,55.56
+OTP / login / registration,5,4,4,55.56,55.56,55.56
+Booking / scheduling,3,1,10,75.0,23.08,35.29
+Notifications,2,2,1,50.0,66.67,57.14
+UI / usability,1,8,8,11.11,11.11,11.11
+Support / communication,4,2,3,66.67,57.14,61.54
